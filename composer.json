@@ -1,0 +1,12 @@
+{
+    "name": "blackout314/awe",
+    "autoload": {
+        "psr-4": {
+            "blackout314\\awe\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "mcmatters/upwork-api": "dev-master"
+    }
+}
